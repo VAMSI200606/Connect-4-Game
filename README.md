@@ -24,7 +24,7 @@ JavaScript (Vanilla)
 
 # 📸 Screenshot
 
-
+<img width="1422" height="735" alt="Image" src="https://github.com/user-attachments/assets/dfc01851-4a8a-4f6e-bf50-89034f5a1844" />
 
 # 🙋‍♂️ Author
 Made with ❤️ by vamsi
